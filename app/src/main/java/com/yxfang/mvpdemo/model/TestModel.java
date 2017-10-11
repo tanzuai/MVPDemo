@@ -1,6 +1,7 @@
 package com.yxfang.mvpdemo.model;
 
 /**
+ * 测试类
  * Created by lenovo on 2017/10/11.
  */
 
